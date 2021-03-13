@@ -2,9 +2,9 @@
 
  Dynamic connectivity.
  
-The input is a sequence of pairs of integers, where each integer represents an object of some type and we are to interpret the pair p q as meaning p is connected to q. We 
+The input is a sequence of pairs of integers, where each integer represents an object of some type and we are to interpret the pair p q as meaning p is connected to q. 
 
-assume that "is connected to" is an equivalence relation:
+We assume that "is connected to" is an equivalence relation:
 
 1-symmetric: If p is connected to q, then q is connected to p.
 
