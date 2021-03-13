@@ -6,8 +6,8 @@ The input is a sequence of pairs of integers, where each integer represents an o
 
 assume that "is connected to" is an equivalence relation:
 
-symmetric: If p is connected to q, then q is connected to p.
+1-symmetric: If p is connected to q, then q is connected to p.
 
-transitive: If p is connected to q and q is connected to r, then p is connected to r.
+2-transitive: If p is connected to q and q is connected to r, then p is connected to r.
 
-reflexive: p is connected to p.
+3-reflexive: p is connected to p.
